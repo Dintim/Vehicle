@@ -10,19 +10,7 @@ public:
 	void setYachCntDecks(int cntDecks);
 	int getYachCntDecks()const { return cntDecks; }
 
-	/*void setYachMaxSpeed(int maxSpeed);
-	void setYachColor(string vehicleColor);
-	void setYachCntPassengers(int cntPassengers);
-	void setYachModel(string vehicleModel);
-	void setYachHasEngine(bool hasEngine);
-	void setYachDisplacement(int displacement);
-
-	int getYachMaxSpeed()const { return this->getBoatMaxSpeed(); }
-	string getYachColor()const { return this->getBoatColor(); }
-	int getYachCntPassengers()const { return this->getBoatCntPassengers(); }
-	string getYachModel()const { return this->getBoatModel(); }
-	bool getYachHasEngine()const { return this->getBoatHasEngine(); }
-	int getYachDisplacement()const { return this->getBoatDisplacement(); }*/
+	
 
 	void info();
 	

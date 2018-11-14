@@ -10,19 +10,7 @@ public:
 	void setBikeType(string bikeType);
 	string getBikeType()const { return bikeType; }
 
-	/*void setBikeMaxSpeed(int maxSpeed);
-	void setBikeColor(string vehicleColor);
-	void setBikeCntPassengers(int cntPassengers);
-	void setBikeModel(string vehicleModel);
-	void setBikeHasEngine(bool hasEngine);
-	void setBikeCntWheels(int cntWheels);
-
-	int getBikeMaxSpeed()const { return this->getGVMaxSpeed(); }
-	string getBikeColor()const { return this->getGVColor(); }
-	int getBikeCntPassengers()const { return this->getGVCntPassengers(); }
-	string getBikeModel()const { return this->getGVModel(); }
-	bool getBikeHasEngine()const { return this->getGVHasEngine(); }
-	int getBikeCntWheels()const { return this->getGVCntWheels(); }*/
+	
 
 	void info();
 	
